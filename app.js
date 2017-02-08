@@ -1,3 +1,3 @@
-function practice() {
+function practice(welfkhjeflkjhefklw) {
 
 }
